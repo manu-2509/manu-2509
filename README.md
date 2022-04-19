@@ -7,7 +7,7 @@ Hi 👋 My name is Manesh Suresh
 * 🤝  I'm open to collaborating on open source
 
 <a href="https://www.github.com/manu-2509" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/man-2509?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/manu-2509?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 ### Skills
 
