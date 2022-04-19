@@ -1,6 +1,6 @@
 Hi 👋 My name is Manesh Suresh
 ==============================
-<img src=https://media2.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp?cid=ecf05e478yaa0935md8sqvjmh27aio4107jal69t9ncxdcfd&rid=200w.webp&ct=g></img>
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e470eich8iswra8qt66sg4i82w447ne75sbp3grvgnl&rid=200.webp&ct=g"></img>
 <a href="https://www.github.com/Manesh Suresh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Manesh Suresh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
