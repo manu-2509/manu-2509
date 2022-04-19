@@ -3,10 +3,12 @@ Hi 👋 My name is Manesh Suresh
 <img src="https://camo.githubusercontent.com/f55fd995bda4de4dbb97793b9e0234ad214700505a10ca53939486f627b6c428/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f3230302e776562703f6369643d656366303565343730656963683869737772613871743636736734693832773434376e65373573627033677276676e6c267269643d3230302e776562702663743d67"/>
 
 
-* 🌍  I'm based in Kerala
-* ✉️  You can contact me at [maneshs111@gmail.com](mailto:maneshs111@gmail.com)
-* 🧠  I'm learning React
+* ✍  You can find my Resume <a href="">here</a>
+* 👨‍💻  My portfolio can be seen <a href="">here</a>
+* ✉️  Reach out to me on [maneshs111@gmail.com](mailto:maneshs111@gmail.com)
+* 🧠  I’m currently doing full-stack web development course from Masai School.
 * 🤝  I'm open to collaborating on open-source
+* 🌍  I'm based in Alleppey,Kerala 
 
 <a href="https://www.github.com/manu-2509" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/manu-2509?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
