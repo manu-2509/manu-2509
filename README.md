@@ -1,7 +1,7 @@
-                                                                  Hi peeps👋I'm Manesh Suresh
-                                                                ===============================
-               I'm Manesh Suresh,a passionate and meticulous full stack web developer wanting to be working in an challenging environment to build cool 
-                                                                   websites and appications.                          
+                                                     Hi peeps👋I'm Manesh Suresh
+                                                   ===============================
+               I'm Manesh Suresh,a passionate and meticulous full stack web developer wanting to be working in an 
+                                challenging environment to build cool websites and appications.                          
 <img src="https://camo.githubusercontent.com/f55fd995bda4de4dbb97793b9e0234ad214700505a10ca53939486f627b6c428/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f3230302e776562703f6369643d656366303565343730656963683869737772613871743636736734693832773434376e65373573627033677276676e6c267269643d3230302e776562702663743d67"/>
 
 
