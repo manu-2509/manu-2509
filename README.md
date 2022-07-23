@@ -9,7 +9,7 @@
 
 
 * ✍  You can find my resume <a href="https://drive.google.com/file/d/1jwR0Jc87WPbLCBzTwRJYEkcJxbSmM5jU/view?usp=sharing">here</a>
-* 👨‍💻  My portfolio can be seen <a href="https://manesh-suresh.netlify.app/">here</a>
+* 👨‍💻  My portfolio can be seen <a href="https://manesh-suresh-portfolio.netlify.app/">here</a>
 * ✉️  Reach out to me on [maneshs111@gmail.com](mailto:maneshs111@gmail.com)
 * 🧠  I’m currently doing full-stack web development course at Masai School.
 * 🤝  I'm open to collaborating on open-source
