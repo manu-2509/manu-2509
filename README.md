@@ -1,9 +1,14 @@
-## Hi there 👋 I'm **Manesh Suresh**  
+## Hi there 👋 I'm **Manesh Suresh**
+
 ---
 
 **Frontend Developer & Project Lead**
 
+![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 I’m a passionate and meticulous full-stack web developer with over 2 years of professional experience, specializing in building dynamic, scalable web applications using React and Node.js. Currently, I lead the frontend development of multiple projects, including a Point of Sale (POS) software, which I developed and optimized for fast performance across various locations. I thrive in challenging environments, and I’m always eager to learn, collaborate, and work on impactful projects.
+
+---
 
 ### 💼 Professional Experience
 
@@ -16,8 +21,8 @@ I’m a passionate and meticulous full-stack web developer with over 2 years of 
 
 ### 📜 Resume and Portfolio
 
-- ✍  **[Resume](https://drive.google.com/file/d/1FoI3wvf6QKogc-wrFOBe0N3lnu7FxcKV/view?usp=drivesdk)**
-- 👨‍💻 **[Portfolio](https://manesh-suresh-portfolio.netlify.app/)**
+- 📄 **[Resume](https://drive.google.com/file/d/1FoI3wvf6QKogc-wrFOBe0N3lnu7FxcKV/view?usp=drivesdk)** 
+- 🖥️ **[Portfolio](https://manesh-suresh-portfolio.netlify.app/)**
 
 ---
 
@@ -31,24 +36,24 @@ I’m a passionate and meticulous full-stack web developer with over 2 years of 
 
 ### 🛠️ Tech Stack & Skills
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
   </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="40" height="40" alt="Redux" />
   </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" />
   </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="40" height="40" alt="Express" />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" />
   </a>
 </p>
 
@@ -56,18 +61,18 @@ I’m a passionate and meticulous full-stack web developer with over 2 years of 
 
 ### 🌐 Socials
 
-<p align="left">
-  <a href="https://github.com/manu-2509" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+<p align="center">
+  <a href="https://github.com/manu-2509" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/Manesh-Suresh" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  <a href="https://www.linkedin.com/in/Manesh-Suresh" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
-  <a href="http://www.medium.com/Manesh-Suresh" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
+  <a href="http://www.medium.com/Manesh-Suresh" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" />
   </a>
-  <a href="https://www.twitter.com/_manesh_suresh" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  <a href="https://www.twitter.com/_manesh_suresh" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" />
   </a>
 </p>
 
@@ -75,18 +80,26 @@ I’m a passionate and meticulous full-stack web developer with over 2 years of 
 
 ### 🏆 GitHub Stats
 
-<a href="http://www.github.com/manu-2509">
-  <img src="https://github-readme-stats.vercel.app/api?username=manu-2509&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub Stats" />
-</a>
+<p align="center">
+  <a href="http://www.github.com/manu-2509">
+    <img src="https://github-readme-stats.vercel.app/api?username=manu-2509&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub Stats" />
+  </a>
+</p>
 
-<a href="http://www.github.com/manu-2509">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manu-2509&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+<p align="center">
+  <a href="http://www.github.com/manu-2509">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manu-2509&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+</p>
 
-<a href="http://www.github.com/manu-2509">
-  <img src="https://activity-graph.herokuapp.com/graph?username=manu-2509&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
+<p align="center">
+  <a href="http://www.github.com/manu-2509">
+    <img src="https://activity-graph.herokuapp.com/graph?username=manu-2509&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+  </a>
+</p>
 
-<a href="https://github.com/manu-2509" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu-2509&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+<p align="center">
+  <a href="https://github.com/manu-2509">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manu-2509&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  </a>
+</p>
